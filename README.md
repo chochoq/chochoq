@@ -3,9 +3,19 @@
 I want to be a good person and a good web developer.<p>
 So I'm studying languages, frameworks, etc..
 
+
+<br>
+
+
 Can it be me?
 
-We'll do it first.
+
+
+<br>
+
+
+
+We'll do it first.<p>
 just do it
 
 <!--
