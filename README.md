@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I want to be a good person and a good web developer.
+I want to be a good person and a good web developer.<p>
 So I'm studying languages, frameworks, etc..
 
 Can it be me?
