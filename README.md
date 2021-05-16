@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I want to be a good person and a good web developer.
+So I'm studying languages, frameworks, etc..
+
+Can it be me?
+
+We'll do it first.
+just do it
+
 <!--
 **chochoq/chochoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
