@@ -35,9 +35,9 @@ just do it<p>
 <br>
 
 
-- 🌱 React, JavaScript를 공부하고 있습니다.
-- 💬 <a href='http://devdawn.shop/'>it's my notion</a>
-- 📫 <a href='https://url.kr/sqrfju'>resume's here!</a>
+- 🌱 I learn React.js and JavaScript
+- 💬 <a href='http://devdawn.shop/'>It's my notion</a>
+- 📫 <a href='https://url.kr/sqrfju'>Resume's here!</a>
   
   
 <!-- 
