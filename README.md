@@ -36,8 +36,8 @@ just do it<p>
 
 
 - 🌱 React, JavaScript를 공부하고 있습니다.
-- 💬 <a href='http://devdawn.shop/'>저의 노션에 놀러오세요</a>
-- 📫 <a href='https://url.kr/sqrfju'>저의 이력서를 확인해주세요</a>
+- 💬 <a href='http://devdawn.shop/'>it's my notion</a>
+- 📫 <a href='https://url.kr/sqrfju'>resume's here!</a>
   
   
 <!-- 
