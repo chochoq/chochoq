@@ -26,9 +26,9 @@ Well.. do it first.<p>
 just do it<p>
   
   
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chochoq&show_icons=true&locale=en" alt="chochoq" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chochoq&show_icons=true&locale=en&theme=tokyonight" alt="chochoq" /></p> -->
 
-  
+
 
 
 
@@ -39,7 +39,9 @@ just do it<p>
 - 💬 <a href='http://devdawn.shop/'>Notion</a>을 블로그처럼 운영하고 있습니다.
 - 📫 저의 <a href='https://url.kr/sqrfju'>이력서</a>를 확인해주세요.
   
-  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 <!-- 
