@@ -36,7 +36,7 @@ just do it<p>
 
 
 - 🌱 JavaScript, React.js를 좋아합니다.<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-- 💬 <a href='http://devdawn.shop/'>Notion</a>을 블로그처럼 운영하고 있습니다.
+- 💬 <a href='https://devchocho.notion.site/Chocho-s-develog-56ca89caa8c1427f92523ab94a85f647'>Notion</a>을 블로그처럼 운영하고 있습니다.
 - 📫 <a href='https://url.kr/sqrfju'>❤️이력서❤️</a> check plz
   
 
