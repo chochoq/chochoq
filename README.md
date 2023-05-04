@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋 It's saebyeok👋</h1>
-<h3 align="center">A junior frontend developer from korea</h3>
+<h1 align="center">Hi👋 It's saebyeok plz call chocho 👋</h1>
+<h3 align="center">I'm A Junior Flutter Developer from s.korea</h3>
 
 
 
@@ -35,9 +35,9 @@ just do it<p>
 <br>
 
 
-- 🌱 JavaScript, React.js를 좋아합니다.<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-- 💬 <a href='https://devchocho.notion.site/Chocho-s-develog-56ca89caa8c1427f92523ab94a85f647'>Notion</a>을 블로그처럼 운영하고 있습니다.
-- 📫 <a href='https://url.kr/sqrfju'>❤️이력서❤️</a> check plz
+- 🌱 Flutter와 Node.js를 좋아합니다.<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png" alt="nodejs" width="40" height="40"/> </a> </p>
+- 💬 <a href='https://velog.io/@chocho'>Velog</a>에 글을 포스팅하곤 합니다.
+- 📫 [<a href='[https://url.kr/sqrfju](❤️이력서❤️)'>](https://drive.google.com/file/d/1oQ2bIPglI3oLX0CbkKARhmwUYU1ZTqRz/view?usp=share_link) check plz
   
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
