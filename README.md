@@ -37,7 +37,7 @@ just do it<p>
 
 - 🌱 Dart와 Flutter, Node.js를 주로 사용합니다.<p align="left"><img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="40" height="40"/> </a> <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png" alt="nodejs" width="40" height="40"/> </a> </p>
 - 💬 <a href='https://velog.io/@chocho'>Velog</a>에 글을 포스팅하곤 합니다.
-- 👩‍💻 <a href='https://drive.google.com/file/d/1oQ2bIPglI3oLX0CbkKARhmwUYU1ZTqRz/view?usp=share_link'>❤️이력서❤️</a>를 확인해주세요.
+- 👩‍💻 <a href='https://docs.google.com/document/d/1uAWk2VOS0WVBGgOIvLJIrOSOJoWg4NwIZqtDtBzxFdU/edit'>❤️이력서❤️</a>를 확인해주세요.
 - 👩‍💻 <a href='https://saebyeok-portfolio-2023.web.app/'>❤️포트폴리오❤️</a>를 확인해주세요.
 
 
